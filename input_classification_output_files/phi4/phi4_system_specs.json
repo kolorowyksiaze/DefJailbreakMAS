@@ -1,0 +1,29 @@
+{
+    "collection_timestamp": "2025-05-07T19:24:54.740513",
+    "model_name_tested": "phi4",
+    "os_info": {
+        "system": "Linux",
+        "release": "6.1.123+",
+        "version": "#1 SMP PREEMPT_DYNAMIC Sun Mar 30 16:01:29 UTC 2025",
+        "machine": "x86_64",
+        "hostname": "db06bc20bd53"
+    },
+    "python_version": "3.11.12",
+    "cpu_info": {
+        "brand": "Intel(R) Xeon(R) CPU @ 2.00GHz",
+        "arch_string": "x86_64",
+        "physical_cores": 1,
+        "logical_cores": 2
+    },
+    "ram_info": {
+        "total": "12.67 GiB",
+        "available": "10.44 GiB"
+    },
+    "gpu_info": [
+        {
+            "index": 0,
+            "name": "Tesla T4",
+            "total_memory": "15.00 GiB"
+        }
+    ]
+}

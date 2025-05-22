@@ -1,0 +1,29 @@
+{
+    "collection_timestamp": "2025-05-04T18:41:28.834782",
+    "model_name_tested": "gemma3:12b-it-qat",
+    "os_info": {
+        "system": "Linux",
+        "release": "6.1.123+",
+        "version": "#1 SMP PREEMPT_DYNAMIC Sun Mar 30 16:01:29 UTC 2025",
+        "machine": "x86_64",
+        "hostname": "ea68f4147158"
+    },
+    "python_version": "3.11.12",
+    "cpu_info": {
+        "brand": "Intel(R) Xeon(R) CPU @ 2.20GHz",
+        "arch_string": "x86_64",
+        "physical_cores": 1,
+        "logical_cores": 2
+    },
+    "ram_info": {
+        "total": "12.67 GiB",
+        "available": "8.97 GiB"
+    },
+    "gpu_info": [
+        {
+            "index": 0,
+            "name": "Tesla T4",
+            "total_memory": "15.00 GiB"
+        }
+    ]
+}

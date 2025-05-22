@@ -1,0 +1,25 @@
+{
+    "collection_timestamp": "2025-05-10T15:41:50.904012",
+    "model_name_tested": "mistral-nemo",
+    "os_info": {
+        "system": "Linux",
+        "release": "6.1.123+",
+        "version": "#1 SMP PREEMPT_DYNAMIC Sun Mar 30 16:01:29 UTC 2025",
+        "machine": "x86_64",
+        "hostname": "883f4f7be0ec"
+    },
+    "python_version": "3.11.12",
+    "cpu_info": {
+        "brand": "Intel(R) Xeon(R) CPU @ 2.20GHz",
+        "arch_string": "x86_64",
+        "physical_cores": 1,
+        "logical_cores": 2
+    },
+    "ram_info": {
+        "total": "12.67 GiB",
+        "available": "11.25 GiB"
+    },
+    "gpu_info": {
+        "error": "NVML Error: NVML Shared Library Not Found"
+    }
+}
