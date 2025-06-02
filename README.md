@@ -18,7 +18,7 @@ This folder contains Jupyter notebooks with:
 - Scripts for **attacking LLMs** – exploring model behavior in adversarial or manipulation-prone contexts.
 - Scripts using **LLMs and BERT-base models as input classifiers** – experiments where models classify input data based on provided prompts.
 
-### `output/`
+### `input_classification_output_files/`
 
 This folder contains the results of the experiments, including:
 
